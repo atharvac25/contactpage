@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #f9f7cf;
+}
+
+h1{
+  font-size:100px;
+  font-family: font-family: 'PT Sans Narrow', sans-serif;
+  margin-top:0;
+}
+
+.firstband{
+  background-color:#bce6eb;
+  position:relative;
+    height:60px;
+}
+.themiddlebox{
+  font-size:40px;
+
+}
+.thelowerbox{
+font-size: 20px;
+}
+.last{
+  fontsize:20px;
+
+}
